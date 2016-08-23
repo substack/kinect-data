@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pump": "^1.0.1",
+    "websocket-stream": "^3.2.1"
+  }
+}
